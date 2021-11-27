@@ -1,0 +1,5 @@
+[mint]
+address = "192.168.100.2"
+user = "root"
+identity_file = "id_rsa"
+
